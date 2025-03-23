@@ -1,6 +1,7 @@
 # Automatic-Number-Plate-Recognition-YOLOv11
 ## Demo
 
+https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8/assets/79400407/1af57131-3ada-470a-b798-95fff00254e6
 
 
 
